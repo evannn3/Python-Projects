@@ -1,0 +1,1 @@
+I made a rock paper scissors thingy (which i told chat gpt to make a bit more compact so its not directly mine, but mine was working), a encrypting and decrypting thingy which i thought was pretty cool and a typing test which is a bit too accurate
