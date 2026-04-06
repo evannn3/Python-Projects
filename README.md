@@ -1,1 +1,3 @@
-I made a rock paper scissors thingy (which i told chat gpt to make a bit more compact so its not directly mine, but mine was working), a encrypting and decrypting thingy which i thought was pretty cool and a typing test which is a bit too accurate
+- encrypting.py -> Code used to encrypt/decrypt messages using a customizable key.
+- rock papper scissors.py -> Interactive text version of rock paper scissors.
+- wpm typing test.py -> Word per minute interactive typing test designed to measure average typing speed per minute.
